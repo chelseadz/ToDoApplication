@@ -1,4 +1,0 @@
-html, body, #root { height: 100%; }
-body { margin: 0; font-family: system-ui, Arial, sans-serif; background: #fafafa; color: #111; }
-* { box-sizing: border-box; }
-button { cursor: pointer; }
